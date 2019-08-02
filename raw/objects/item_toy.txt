@@ -21,3 +21,7 @@ item_toy
 [ITEM_TOY:ITEM_TOY_MINIFORGE]
 [NAME:mini-forge:mini-forges]
 [HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_CART]
+[NAME:toy cart:toy carts]
+[HARD_MAT]
